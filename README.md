@@ -1,8 +1,7 @@
-This is the *Classification of Handwritten Digits* project I made myself.
+I recently completed the Classification of Handwritten Digits project as part of my learning experience on the Hyperskill platform. In this project, I used scikit-learn to explore various classification algorithms and developed a model to recognize handwritten digits from 0 to 9. I implemented automatic hyperparameter optimization to fine-tune the model's performance and built a generalized evaluation approach to assess its accuracy comprehensively.
 
+This project allowed me to deepen my understanding of machine learning techniques, model selection, and performance evaluation using scikit-learn.
 
-<p>In this project, you are going to explore the main classification algorithms and learn how to find and train the best possible model for the classification of handwritten digits. You will need to process a dataset that includes images of handwritten numbers from 0 to 9. The ultimate goal is to train the model to identify a digit on the picture. Sounds interesting? Let's dive into it!</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/205?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/205</a>
-
-Here's the link to the project: https://hyperskill.org/projects/205
+Learn more about the project: https://hyperskill.org/projects/205
 
 Check out my profile: https://hyperskill.org/profile/591204401
